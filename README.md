@@ -5,6 +5,9 @@ The Legal Text Summarizer is designed to analyze lengthy legal documents and gen
 **Accuracy Scores :**
 
 
+
+
+
 **Pretrained :**
 <img width="630" alt="untuned" src="https://github.com/jainlakshay21/Legal-Text-Summarizer-NLP/assets/91755977/50e9b589-70ff-4cfb-b2ed-6885861cfc0c">
 
