@@ -24,6 +24,9 @@ The Legal Text Summarizer is designed to analyze lengthy legal documents and gen
 
 
 **Model generated summary :**
+
+
+
 <img width="653" alt="generated summary" src="https://github.com/jainlakshay21/Legal-Text-Summarizer-NLP/assets/91755977/8b21303d-dd1b-4223-87b5-487b899b9362">
 
 
